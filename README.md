@@ -64,7 +64,7 @@ The Azure Function evaluates each trip's metadata and flags based on:
 ---
 
 ## 📸 Screenshots & Flowchart
-https://github.com/Mishravaibhav0032/Lab4_Serverless/issues/1#issue-3285430841
+<img width="1462" height="967" alt="Image" src="https://github.com/user-attachments/assets/dddd9650-5f7b-42fb-a791-f75dfbab7200" />
 
 ---
 
