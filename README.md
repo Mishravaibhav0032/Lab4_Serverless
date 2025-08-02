@@ -64,8 +64,7 @@ The Azure Function evaluates each trip's metadata and flags based on:
 ---
 
 ## 📸 Screenshots & Flowchart
-
-- ![Logic App Flow](logic-app-flow.png) *(Add your screenshot here)*
+https://github.com/Mishravaibhav0032/Lab4_Serverless/issues/1#issue-3285430841
 
 ---
 
