@@ -97,5 +97,5 @@ The Azure Function evaluates each trip's metadata and flags based on:
 
 ## 🕒 Deadline: Friday, August 1, 2025
 
-Prepared by: **Meet Prajapati**
+Prepared by: **Vaibhav Mishra**
 
