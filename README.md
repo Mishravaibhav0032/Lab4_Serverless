@@ -18,7 +18,8 @@ This project demonstrates a real-time trip monitoring solution for a taxi dispat
    - ✅ Normal trip
    - 🚨 Interesting trip
    - ⚠️ Suspicious vendor activity
-
+   - 
+<img width="1916" height="956" alt="Image" src="https://github.com/user-attachments/assets/e6db058d-1926-4529-acc9-f4ea13a32ed2" />
 ---
 
 ## 💻 Azure Function Logic
