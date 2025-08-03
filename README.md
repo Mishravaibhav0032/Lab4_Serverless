@@ -70,7 +70,7 @@ The Azure Function evaluates each trip's metadata and flags based on:
 
 ## 🔗 Demo Video
 
-[![YouTube Demo](https://img.shields.io/badge/Demo-YouTube-red)](https://www.youtube.com/watch?v=your_demo_link_here)
+https://drive.google.com/file/d/1U5cppuzEAUxTVlUW12WTKh3GMz_3JQLR/view?usp=sharing
 
 ---
 
@@ -95,7 +95,7 @@ The Azure Function evaluates each trip's metadata and flags based on:
 
 ---
 
-## 🕒 Deadline: Friday, August 1, 2025
+## 🕒 Deadline: Friday, August 4, 2025
 
 Prepared by: **Vaibhav Mishra**
 
